@@ -1,0 +1,30 @@
+2018/09/22 14:59:56 [notice] 11600#9792: signal process started
+2018/09/22 15:02:38 [notice] 10416#12224: signal process started
+2018/09/22 15:06:14 [notice] 8468#5960: signal process started
+2018/09/22 15:06:14 [error] 8468#5960: CreateFile() "D:\amp\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/09/25 09:40:38 [notice] 4156#9436: signal process started
+2018/11/30 11:28:55 [notice] 8372#2880: signal process started
+2018/11/30 11:38:57 [emerg] 8468#6000: unknown log format "main" in D:\amp\nginx-kehu/conf/nginx.conf:39
+2018/11/30 11:39:38 [notice] 10680#10684: signal process started
+2018/11/30 11:42:47 [notice] 11052#11108: signal process started
+2018/11/30 15:36:00 [notice] 12512#5900: signal process started
+2018/11/30 15:37:21 [notice] 11308#3964: signal process started
+2018/11/30 16:06:07 [notice] 11216#5596: signal process started
+2018/11/30 16:10:30 [notice] 8280#8264: signal process started
+2018/11/30 16:20:31 [notice] 14300#13664: signal process started
+2018/11/30 16:21:27 [notice] 12280#6480: signal process started
+2018/11/30 16:22:45 [notice] 13756#13692: signal process started
+2018/11/30 16:34:18 [notice] 13264#12664: signal process started
+2018/11/30 16:37:28 [emerg] 13316#9376: unknown directive "proxy_pass:" in D:\amp\nginx-kehu/conf/nginx.conf:47
+2018/11/30 16:38:06 [emerg] 5988#324: unexpected ";" in D:\amp\nginx-kehu/conf/nginx.conf:46
+2018/11/30 16:38:29 [emerg] 2560#11692: unknown directive "proxy_pass:http://192.168.8.230:8080/taskmanage" in D:\amp\nginx-kehu/conf/nginx.conf:48
+2018/11/30 16:38:48 [emerg] 14100#13552: unknown directive "proxy_pass:"http://192.168.8.230:8080/taskmanage"" in D:\amp\nginx-kehu/conf/nginx.conf:48
+2018/11/30 16:39:22 [notice] 13348#4220: signal process started
+2018/11/30 16:39:22 [error] 13348#4220: CreateFile() "D:\amp\nginx-kehu/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/05/23 15:11:05 [crit] 8292#8920: *42 GetFileAttributesEx() "D:\amp\nginx-kehu/html/D:/record" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.8.230, server: 192.168.8.230, request: "PUT /D:\\record HTTP/1.1", host: "192.168.8.230:80"
+2019/05/23 15:11:26 [crit] 8292#8920: *43 GetFileAttributesEx() "D:\amp\nginx-kehu/html/D:/" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.8.230, server: 192.168.8.230, request: "PUT /D:\\ HTTP/1.1", host: "192.168.8.230:80"
+2019/05/23 15:23:00 [crit] 8292#8920: *48 GetFileAttributesEx() "D:\amp\nginx-kehu/html/D:/" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 192.168.8.230, server: 192.168.8.230, request: "PUT /D:\\ HTTP/1.1", host: "192.168.8.230:80"
+2019/06/29 08:31:45 [notice] 5516#9268: signal process started
+2019/06/29 08:33:05 [notice] 8396#9152: signal process started
+2019/06/29 16:58:32 [notice] 9944#6160: signal process started
+2019/12/06 14:44:02 [notice] 7172#8584: signal process started
